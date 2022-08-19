@@ -1,0 +1,17 @@
+.ay {
+	font-family: 'DynaPuff', cursive;
+	color: hotpink;
+}
+
+
+.kilig img{
+				width: 200px;
+}
+
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
